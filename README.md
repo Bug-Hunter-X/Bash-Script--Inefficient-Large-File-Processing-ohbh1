@@ -1,0 +1,1 @@
+This repository contains a bash script demonstrating an inefficient method for processing large files line by line. The script is prone to performance bottlenecks and potential errors when dealing with files exceeding system limits.  A solution is provided that demonstrates a more efficient approach, addressing performance, memory management, and error handling. 
